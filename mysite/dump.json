@@ -1,1 +1,1 @@
-[{"model": "polls.question", "pk": 1, "fields": {"question_text": "caractères spéciaux: à ï", "pub_date": "2023-03-06T08:16:04Z"}}]
+[{"model": "polls.question", "pk": 1, "fields": {"question_text": "caractÃ¨res spÃ©ciaux: Ã  Ã¯", "pub_date": "2023-03-06T08:16:04Z"}}]
